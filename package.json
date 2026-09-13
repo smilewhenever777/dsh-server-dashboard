@@ -1,6 +1,6 @@
 {
   "name": "dsh-server-dashboard",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "DSH 远程服务器看板：SSH 展示 GPU/CPU/内存/磁盘状态、占用进程与训练日志曲线",
   "license": "MIT",
   "type": "module",
